@@ -3,7 +3,7 @@ module Basket
 go 1.24.5
 
 require (
-	github.com/JeremyBelleIsle/gameutil v0.0.0-20260207002617-b8198c5eb75c
+	github.com/JeremyBelleIsle/gameutil v0.0.0-20260212000705-ddb2d0d48fd7
 	github.com/hajimehoshi/ebiten/v2 v2.9.8
 )
 
